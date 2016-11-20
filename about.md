@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a climber climbing the mountain!
+I am a climber!
+<font color=red>Remenber! Every Effort and choice will make a difference to our future!</font>
 
 ### More Information
 
