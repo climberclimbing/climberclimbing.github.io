@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am a climber!
-<font color=red>Remenber! Every Effort and choice will make a difference to our future!</font>
+<p>I am a climber!</p>
+<p><font color=red>Remenber! Every Effort and choice will make a difference to our future!</font></p>
 
 ### More Information
 
