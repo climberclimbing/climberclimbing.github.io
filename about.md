@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p>I am a climber!</p>
-<p><font color=red>Remenber! Every Effort and choice will make a difference to our future!</font></p>
+<p style="color:red;font-size:16px;">Remenber! Every Effort and choice will make a difference to our future!</p>
 
 ### More Information
 
