@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<p>I am a climber!</p>
 <p style="color:red;font-size:16px;">Remenber! every effort and choice will make a difference to our future!</p>
 
 ### More Information
