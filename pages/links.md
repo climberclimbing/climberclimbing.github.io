@@ -14,7 +14,7 @@ permalink: /links/
 
 
 
-###学习
+### 学习
 
 * [斯坦福公开课：编程方法学](http://open.163.com/special/sp/programming.html)
 
@@ -27,7 +27,7 @@ permalink: /links/
 * [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
 
 
-###博客
+### 博客
 
 * [三石·道](http://www.molotang.com/)
 
@@ -35,13 +35,13 @@ permalink: /links/
 
 * [Robin的博客](http://www.cnblogs.com/robin3715/)
 
-###社区
+### 社区
 
 * [stackoverflow](http://stackoverflow.com/)
 
-###文档
+### 文档
 
 * [Java8 API](https://docs.oracle.com/javase/8/docs/api/)
 
-###在线工具
+### 在线工具
 
