@@ -24,6 +24,8 @@ permalink: /links/
 
 * [IBM Java专区](http://www.ibm.com/developerworks/cn/java/)
 
+* [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
+
 * [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
 
 
