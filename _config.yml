@@ -8,8 +8,8 @@ title: Climber
 subtitle: "Climbing"
 description: "Robin的个人博客"
 keywords: 
-favicon: /favicon.ico
-timezone: Asia/Shanghai
+favicon: /websiteicon.ico
+timezone: Asia/Chengdu
 encoding: "utf-8"
 side_bar_repo_limit: 5
 

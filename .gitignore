@@ -1,7 +1,1 @@
-_site/
-*.swp
-*.~vsd
-\#*\#
-*~
-.DS_Store
-Gemfile.lock
+/*.gitignore 配置文件用于配置不需要加入版本管理的文件*/
