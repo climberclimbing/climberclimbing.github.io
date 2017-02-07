@@ -12,8 +12,6 @@ permalink: /links/
 > 积累
 
 
-
-
 ## 学习
 
 * [斯坦福公开课：编程方法学](http://open.163.com/special/sp/programming.html)
@@ -26,8 +24,6 @@ permalink: /links/
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
 
-* [廖雪峰的官方网站](http://www.liaoxuefeng.com/)
-
 
 ## 博客
 
@@ -37,13 +33,17 @@ permalink: /links/
 
 * [Robin的博客](http://www.cnblogs.com/robin3715/)
 
+
 ## 社区
 
 * [stackoverflow](http://stackoverflow.com/)
 
+
 ## 文档
 
 * [Java8 API](https://docs.oracle.com/javase/8/docs/api/)
+* [nginx documentation](http://nginx.org/en/docs/)
+
 
 ## 在线工具
 
