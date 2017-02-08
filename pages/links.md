@@ -13,8 +13,7 @@ permalink: /links/
 
 
 ## 学习
-
-* [斯坦福公开课：编程方法学](http://open.163.com/special/sp/programming.html)
+http://www.w3school.com.cn/
 
 * [并发编程网](http://ifeve.com/)
 
@@ -24,14 +23,12 @@ permalink: /links/
 
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
 
+* [W3C](http://www.w3school.com.cn/)
+
 
 ## 博客
 
-* [三石·道](http://www.molotang.com/)
 
-* [deepinmind的技术博客](http://it.deepinmind.com/index.html)
-
-* [Robin的博客](http://www.cnblogs.com/robin3715/)
 
 
 ## 社区
