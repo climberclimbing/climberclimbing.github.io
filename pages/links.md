@@ -13,7 +13,7 @@ permalink: /links/
 
 
 ## 学习
-http://www.w3school.com.cn/
+
 
 * [并发编程网](http://ifeve.com/)
 
