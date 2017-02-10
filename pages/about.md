@@ -8,12 +8,6 @@ menu: 关于
 permalink: /about/
 ---
 
-climberclimbing
-
-## 坚信
-
-* 付出与坚持
- 
 
 ## 联系
 
