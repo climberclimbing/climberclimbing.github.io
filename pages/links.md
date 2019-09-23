@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-description: 没有链接的博客是孤独的
+description: 
 keywords: 友情链接
 comments: true
 menu: 链接
@@ -17,11 +17,7 @@ permalink: /links/
 
 * [并发编程网](http://ifeve.com/)
 
-* [WebMagic](http://webmagic.io/)
-
 * [IBM Java专区](http://www.ibm.com/developerworks/cn/java/)
-
-* [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
 
 * [W3C](http://www.w3school.com.cn/)
 
