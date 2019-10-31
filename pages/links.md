@@ -2,41 +2,63 @@
 layout: page
 title: Links
 description: 
-keywords: 友情链接
+keywords: 链接
 comments: true
 menu: 链接
 permalink: /links/
 ---
 
 
-> 积累
+## Java
 
-
-## 学习
-
-
-* [并发编程网](http://ifeve.com/)
+* [Java on 8](https://lingcoder.github.io/OnJava8/#/sidebar)
 
 * [IBM Java专区](http://www.ibm.com/developerworks/cn/java/)
 
-* [W3C](http://www.w3school.com.cn/)
+* [并发编程网](http://ifeve.com/)
+
+## 机器学习
+
+* [南瓜书](https://datawhalechina.github.io/pumpkin-book/#/)
+
+* [Kaggle](https://www.kaggle.com/)
+
+* [mlcourse.ai](https://mlcourse.ai/)
 
 
-## 博客
+## 主页
 
+* [AI Lab](https://ai.tencent.com/ailab/zh/index)
 
+* [达摩院](https://damo.alibaba.com/)
+
+* [腾讯AlloyTeam 团队](http://www.alloyteam.com/)
+
+* [TGideas-腾讯互动娱乐创意设计团队](https://tgideas.qq.com/index.html)
+
+* [阿里中间件团队博客](http://jm.taobao.org/)
+
+* [字节跳动技术博客](https://techblog.toutiao.com/)
+
+* [美团技术团队](https://tech.meituan.com/)
 
 
 ## 社区
 
 * [stackoverflow](http://stackoverflow.com/)
 
+* [leetcode-cn](https://leetcode-cn.com/)
+
 
 ## 文档
 
 * [Java8 API](https://docs.oracle.com/javase/8/docs/api/)
-* [nginx documentation](http://nginx.org/en/docs/)
+
+* [Mybatis](https://mybatis.org/mybatis-3/zh/index.html)
+
+* [Python3.7.5](https://docs.python.org/zh-cn/3/index.html)
+
+* [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/)
 
 
-## 在线工具
 
