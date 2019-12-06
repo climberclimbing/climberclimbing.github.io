@@ -26,21 +26,23 @@ permalink: /links/
 
 ## 主页
 
-* [AI Lab](https://ai.tencent.com/ailab/zh/index)
+* [AI Lab](https://ai.tencent.com/ailab/zh/index?_blank)
 
-* [达摩院](https://damo.alibaba.com/)
+* [达摩院](https://damo.alibaba.com/?_blank)
 
-* [腾讯AlloyTeam 团队](http://www.alloyteam.com/)
+* [腾讯AlloyTeam 团队](http://www.alloyteam.com/?_blank)
 
-* [TGideas-腾讯互动娱乐创意设计团队](https://tgideas.qq.com/index.html)
+* [TGideas-腾讯互动娱乐创意设计团队](https://tgideas.qq.com/index.html?_blank)
 
 * [阿里中间件团队博客](http://jm.taobao.org/)
 
-* [淘系前端团队](https://fed.taobao.org/)
+* [淘系前端团队](https://fed.taobao.org/?_blank)
 
-* [字节跳动技术博客](https://techblog.toutiao.com/)
+* [字节跳动技术博客(简书)](https://www.jianshu.com/u/b3f97f005731?_blank)
 
-* [美团技术团队](https://tech.meituan.com/)
+* [字节跳动技术博客(CSDN](https://blog.csdn.net/ByteDanceTech?_blank)
+
+* [美团技术团队](https://tech.meituan.com/?_blank)
 
 
 ## 社区
