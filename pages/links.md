@@ -13,8 +13,6 @@ permalink: /links/
 
 * [Java on 8](https://lingcoder.github.io/OnJava8/#/sidebar)
 
-* [IBM Java专区](http://www.ibm.com/developerworks/cn/java/)
-
 * [并发编程网](http://ifeve.com/)
 
 ## 机器学习
@@ -38,6 +36,8 @@ permalink: /links/
 
 * [阿里中间件团队博客](http://jm.taobao.org/)
 
+* [淘系前端团队](https://fed.taobao.org/)
+
 * [字节跳动技术博客](https://techblog.toutiao.com/)
 
 * [美团技术团队](https://tech.meituan.com/)
@@ -54,11 +54,16 @@ permalink: /links/
 
 * [Java8 API](https://docs.oracle.com/javase/8/docs/api/)
 
+* [Spring](https://spring.io/)
+
+* [Dubbo](http://dubbo.apache.org/zh-cn/)
+
 * [Mybatis](https://mybatis.org/mybatis-3/zh/index.html)
 
 * [Python3.7.5](https://docs.python.org/zh-cn/3/index.html)
 
 * [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/)
+
 
 
 
