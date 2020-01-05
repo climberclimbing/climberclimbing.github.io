@@ -40,7 +40,7 @@ permalink: /links/
 
 * [字节跳动技术博客(简书)](https://www.jianshu.com/u/b3f97f005731?_blank)
 
-* [字节跳动技术博客(CSDN](https://blog.csdn.net/ByteDanceTech?_blank)
+* [字节跳动技术博客(CSDN)](https://blog.csdn.net/ByteDanceTech?_blank)
 
 * [美团技术团队](https://tech.meituan.com/?_blank)
 

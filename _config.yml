@@ -4,8 +4,8 @@
 baseurl:
 url: https://climberclimbing.github.io/
 date_format: "ordinal"
-title: Climber
-subtitle: "Climbing"
+title: categories/climber
+subtitle: ""
 description: "Robin的个人博客"
 keywords: 
 favicon: /websiteicon.ico
@@ -74,7 +74,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: climberclimbing/climberclimbing.github.io
 
 # ---------------- #
 #      Socials     #
