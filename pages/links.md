@@ -21,14 +21,8 @@ permalink: /links/
 
 * [Kaggle](https://www.kaggle.com/)
 
-* [mlcourse.ai](https://mlcourse.ai/)
-
 
 ## 主页
-
-* [AI Lab](https://ai.tencent.com/ailab/zh/index?_blank)
-
-* [达摩院](https://damo.alibaba.com/?_blank)
 
 * [腾讯AlloyTeam 团队](http://www.alloyteam.com/?_blank)
 
@@ -56,7 +50,9 @@ permalink: /links/
 
 * [Java8 API](https://docs.oracle.com/javase/8/docs/api/)
 
-* [Spring](https://spring.io/)
+* [Spring Framework Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/index.html)
+
+* [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/2.0.4.RELEASE/reference/htmlsingle/)
 
 * [Dubbo](http://dubbo.apache.org/zh-cn/)
 
