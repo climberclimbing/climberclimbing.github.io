@@ -231,3 +231,5 @@ JWT生成Token的步骤：
 [15] [关于token和refresh token](https://blog.csdn.net/weixin_41282397/article/details/81908025)
 
 [16] [JWT-token—前后端分离架构的api安全问题](https://www.jianshu.com/p/836df92c06eb)
+
+[17] [加盐加密的简单理解](https://blog.csdn.net/Sacredness/article/details/86027143)
