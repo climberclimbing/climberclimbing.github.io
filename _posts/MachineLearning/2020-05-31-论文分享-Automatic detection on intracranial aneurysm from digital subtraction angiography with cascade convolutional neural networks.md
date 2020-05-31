@@ -83,7 +83,7 @@ Region localization stage(RLS)：(网络结构参数已通过训练得到)将多
 
 ![The architecture of region localization stage (RLS).](https:/climberclimbing.github.io/images/12.png)
 
-为什么选择时间序列图片？
+#### 时间序列图片
 
 ![DSA影像中的颅内动脉瘤与血管重叠](https:/climberclimbing.github.io/images/16.png)
 
@@ -91,6 +91,21 @@ DSA影像的每个像素点所对应的垂直三维空间中很大概率会包�
 临床医生会利用造影剂随血液流动经过颅内动脉瘤与血管重叠时的不同显影效果对二者进行判别与区分。
 以此为出发点，本文认为可以利用DSA影像时间序列特征对颅内动脉瘤进行检测，进而从计算机视觉中的高维映射角度量化临床医生判别颅内动脉瘤与血管重叠的方法。  
 (使得训练得到的神经网络具备一定的判别血管重叠的能力，因此误识别的血管重叠往往具有较低的置信度)
+
+#### FPN(feature pyramid networks)
+
+特征金字塔网络(FPN)[8]：特征金字塔能够感知不同层次的抽象特征，实现多尺度目标检测。 
+
+![feature pyramid networks](https:/climberclimbing.github.io/images/21.png)
+
++ (a)图像金字塔，即将图像做成不同的scale，然后不同scale的图像生成对应的不同scale的特征。这种方法的缺点在于增加了时间成本。有些算法会在测试时候采用图像金字塔。
+
++ (b)像SPP net，Fast RCNN，Faster RCNN是采用这种方式，即仅采用网络最后一层的特征。
+
++ (c)像SSD（Single Shot Detector）采用这种多尺度特征融合的方式，没有上采样过程，即从网络不同层抽取不同尺度的特征做预测，这种方式不会增加额外的计算量。作者认为SSD算法中没有用到足够低层的特征（在SSD中，最低层的特征是VGG网络的conv4_3），而在作者看来足够低层的特征对于检测小物体是很有帮助的。
+
++ (d)FPN采用这种方式，顶层特征通过上采样和低层特征做融合，而且每层都是独立预测的。
+
 
 ### Aneurysm detection stage
 
@@ -151,6 +166,10 @@ Aneurysm detection stage(ADS)这一阶段主要用于区分颅内动脉瘤和血
 
 可以看出当c选择0.99时RAGS算法诊断结果与医生诊断结果最为接近。据此确定c的值为0.99。
 
+## 算法对比
+
+![算法对比](https:/climberclimbing.github.io/images/22.png)
+
 
 ## 后续
 
@@ -184,6 +203,8 @@ Aneurysm detection stage(ADS)这一阶段主要用于区分颅内动脉瘤和血
 [6] [OTSU算法（大津法—最大类间方差法）原理及实现](https://blog.csdn.net/weixin_40647819/article/details/90179953)
 
 [7] [图像二值化,阈值处理(十)](https://www.cnblogs.com/angle6-liu/p/10673585.html)
+
+[8] [FPN（feature pyramid networks）算法讲解](https://blog.csdn.net/u014380165/article/details/72890275/)
 
 
 
